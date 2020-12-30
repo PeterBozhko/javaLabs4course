@@ -1,0 +1,6 @@
+data_store = DataBase
+db.host = localhost:3306
+db.login = lab4
+db.password = 12345
+f.shops = shops.csv
+f.products = products.csv
